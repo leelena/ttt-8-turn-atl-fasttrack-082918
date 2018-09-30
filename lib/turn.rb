@@ -8,6 +8,12 @@ def valid_move(board, input_to_index)
 end
   
 def position_taken
+    if position_taken
+        puts
+    else
+        
+    end
+end
 end
 
 def move(board, input_to_index, X)
