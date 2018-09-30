@@ -1,11 +1,11 @@
-def display_board()
-board = [" "," "," "," "," "," "," "," "," "]
+def display_board(board)
 display_board(board)
+  
 end
 
 
 def valid_move?(board, input_to_index)
-end
+return 
   
 def position_taken
     if position_taken
