@@ -3,10 +3,6 @@ def display_board(board)
   
 end
 
-
-def valid_move?(board, input_to_index)
-return 
-  
 def position_taken?
     if position_taken
         puts
@@ -14,6 +10,11 @@ def position_taken?
         
     end
 end
+
+def valid_move?(board, index)
+  
+  
+
 end
 
 def move(board, input_to_index, X)
