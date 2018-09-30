@@ -1,5 +1,5 @@
 def display_board(board)
-display_board(board)
+
   
 end
 
@@ -7,7 +7,7 @@ end
 def valid_move?(board, input_to_index)
 return 
   
-def position_taken
+def position_taken?
     if position_taken
         puts
     else
