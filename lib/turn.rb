@@ -3,22 +3,11 @@ def display_board(board)
   
 end
 
-def position_taken?
-    if position_taken
-        puts
-    else
-        
-    end
-end
+
 
 def valid_move?(board, index)
   if index >0 && index <=8 
     
-    
-
-  
-  
-
 end
 
 def move(board, input_to_index, X)
